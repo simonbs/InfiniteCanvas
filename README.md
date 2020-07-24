@@ -13,3 +13,7 @@ The approach is the following:
 When doing state restoration, you don't want to place the user in the middle of the canvas. Instead you should place the user in the middle of their drawing.
 
 I use the [strokes property of a PKDrawing](https://developer.apple.com/documentation/pencilkit/pkdrawing/3595078-strokes) to calculate the frame of a drawing in the canvas. This is needed to show the arrows that help the user navigate the canvas.
+
+## Licenses
+
+All source code is licensed under the [MIT License](https://github.com/simonbs/InfiniteCanvas/).
