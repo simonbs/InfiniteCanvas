@@ -16,4 +16,4 @@ I use the [strokes property of a PKDrawing](https://developer.apple.com/document
 
 ## Licenses
 
-All source code is licensed under the [MIT License](https://github.com/simonbs/InfiniteCanvas/).
+All source code is licensed under the [MIT License](https://github.com/simonbs/InfiniteCanvas/blob/main/LICENSE).
