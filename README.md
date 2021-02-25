@@ -1,6 +1,6 @@
 # Infinite Canvas
 
-This example project shows how to create an "infinite" canvas using PencilKit. It's not really infinite though but it's a canvas so huge that users will most likely regard it infinite.
+This example project shows how to create an "infinite" canvas using PencilKit. It's not really infinite but it's a canvas so huge that users will most likely regard it infinite.
 
 <img src="https://github.com/simonbs/infinite-canvas/raw/main/screenshot.jpeg" width="200"/>
 
